@@ -16,6 +16,9 @@ A task management web application that helps users organize daily activities wit
 
 ## 📌 Project Objective
 The main objective of this project is to help users manage their daily tasks efficiently and improve productivity through a simple and organized task management system.
+## 🎥 Project Demo
+
+[Click here to watch the Todo App demo](https://github.com/user-attachments/assets/964fd0db-7a95-4ea0-84b4-f1e529982a0d)
 
 ## ⚙️ Installation & Setup
 
@@ -85,13 +88,6 @@ http://127.0.0.1:8000/admin/
 - Add priority levels for tasks
 - Add search and filter functionality
 - Deploy the application online
-
-## 📸 
-Screenshots
-https://github.com/user-attachments/assets/964fd0db-7a95-4ea0-84b4-f1e529982a0d
-
-
-
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and improve the project.
